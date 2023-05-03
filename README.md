@@ -4,7 +4,7 @@ Sistema que permite consultar a API exchangerate para converter diversos valores
 
 Link site: https://moeda-converter.netlify.app/
 
-Link a API: https://exchangerate.host/#/
+Link API: https://exchangerate.host/#/
 
 ### Tecnologias
 - HTML5
